@@ -11,7 +11,7 @@ Installation and Use
 ### Download
 
     $ cd ~
-    $ git clone git://github.com/alxm/a2x.git a2x
+    $ git clone git://github.com/alxm/a2x.git a2x -b 2011.08
 
 ### Configure and Build
 
@@ -63,6 +63,6 @@ Installation and Use
 License
 -------
 
-Copyright 2010 Alex Margarit (artraid@gmail.com)
+Copyright 2010 Alex Margarit (alex@alxm.org)
 
 Licensed under GNU LGPL3.
