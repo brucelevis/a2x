@@ -20,7 +20,7 @@
 #ifndef A2X_APP_MAIN_VH
 #define A2X_APP_MAIN_VH
 
-#define A__VERSION "rolling"
+#define A__VERSION "2011.08"
 
 #include "a2x_app_main.p.h"
 
